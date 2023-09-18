@@ -1,25 +1,6 @@
 
 # Hello World, I am Muhammad Abdullah 👋
 ![gitartwork](https://user-images.githubusercontent.com/71145709/235435179-7842d736-d5e6-4671-bbfb-7a61c07707a4.svg)
- name: gitartwork from a contribution graph
- on: 
-   push:
-   schedule:
-     - cron: '* */24 * * *'
- jobs:
-   build:
-     name: Make gitartwork SVG
-     runs-on: ubuntu-latest
-     steps:
-       - uses: actions/checkout@v3
-       - uses: jasineri/gitartwork@v1
-         with:
-            # Use this username's contribution graph  
-            user_name: abdullah
-            # Text on contribution graph 
-            text: ABDULLAH
-       - uses: jasineri/simple-push-action@v1
-
 ### I am a Software Engineer and Tech Enthusiast 
 - 😄 I am currently striving to learn, develop & Grow.
 - 🔭 I am currently working on Python, PHP and Laravel.

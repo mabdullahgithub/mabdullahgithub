@@ -1,16 +1,13 @@
-### Hi there 👋
+I am a Software Engineer and Tech Enthusiast
 
-<!--
-**mabdullahgithub/mabdullahgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😄 I am currently striving to learn, develop & Grow.
 
-Here are some ideas to get you started:
+🔭 I am currently working on Python, PHP and Laravel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I am currently learning everything 🤣 but specifically expanding my knowledge in Full Stack Development.
+
+👯 I am looking to collaborate on Web Development Projects.
+
+🥅 2024 Goals: Contribute to open source and learn Full Stack Development as much as possible.
+
+📢 I Love Programming, and learn new technologies.

@@ -8,7 +8,7 @@
 - 👯 I am looking to collaborate on Web Development Projects.
 - 🥅 2024 Goals: Contribute to open source and learn Full Stack Development as much as possible.
 - 📢 I Love Programming, and learn new technologies.
-- - 💪🏼 My strong willpower will lead the way to success.
+- 💪🏼 My strong willpower will lead the way to success.
 
 	<a  align="center">
 ![](https://komarev.com/ghpvc/?username=mabdullahgithub&color=blueviolet&label=Profile+Views)
